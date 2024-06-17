@@ -23,5 +23,10 @@
         "formName": "vergunningsaanvraag.akkoorderen-besluit",
         "formLinkElementId": "AkkoorderenBesluitTask",
         "formAssociationType": "user-task"
+    },
+    {
+        "formName": "vergunningsaanvraag.controleren-aanvrager-woonplaats",
+        "formLinkElementId": "ControlerenAanvragerWoonplaatsTask",
+        "formAssociationType": "user-task"
     }
 ]
