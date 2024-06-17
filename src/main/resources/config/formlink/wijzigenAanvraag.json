@@ -1,0 +1,7 @@
+[
+    {
+        "formName": "vergunningsaanvraag.start",
+        "formLinkElementId": "WijzigenAanvraagStartEvent",
+        "formAssociationType": "start-event"
+    }
+]
