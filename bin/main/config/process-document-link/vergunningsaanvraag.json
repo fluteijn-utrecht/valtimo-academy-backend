@@ -1,0 +1,14 @@
+[
+    {
+        "processDefinitionKey": "vergunningsaanvraag",
+        "canInitializeDocument": true,
+        "startableByUser": false,
+        "processIsVisibleInMenu": true
+    },
+    {
+        "processDefinitionKey": "wijzigenAanvraag",
+        "canInitializeDocument": false,
+        "startableByUser": true,
+        "processIsVisibleInMenu": true
+    }
+]
